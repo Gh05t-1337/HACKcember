@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#link zur challenge: https://www.floriandalwigk.de/santas-geschenk-hackcember-1
 import zipfile
 import os
 path ="gift"	#in diesem ordner befindet sich außschlieslich "geschenk.zip"
