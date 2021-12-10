@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 import numpy as np
 from PIL import Image, ImageChops, ImageOps
 im2 = ImageOps.grayscale(Image.open('image.png')).convert("1")
