@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#link zur Challenge: https://www.floriandalwigk.de/die-gem%C3%A4lde-von-r-udolf-und-s-klaus/
+
 from PIL import Image, ImageChops
 im1 = Image.open('image.png').convert("1")
 im2 = Image.open('image2.png').convert("1")
