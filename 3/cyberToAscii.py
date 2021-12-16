@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#link zur Challenge: https://www.floriandalwigk.de/das-cyber-rotkaeppchen/
 with open("cyber.txt") as f:
     cyber=f.read().lower()
 
