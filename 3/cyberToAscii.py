@@ -18,6 +18,6 @@ print(cyberliste+"\n") #binary
 hexdec='%x' % int(cyberliste, 2) #spaßeshalber hexadecimal
 print(hexdec+"\n")
 
-#zu ascii konvertieren (geht sicher auch unkomplizierter bzw. leserlicher...)
+#zu ascii konvertieren
 text=''.join(chr(int(cyberliste[i:i+8], 2)) for i in range(0, len(cyberliste), 8))
 print(f"Passwort: {text}"+"\n")
