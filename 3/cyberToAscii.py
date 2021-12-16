@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 with open("cyber.txt") as f:
     cyber=f.read().lower()
 
