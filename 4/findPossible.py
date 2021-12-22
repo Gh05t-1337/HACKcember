@@ -2,6 +2,7 @@
 #link zur Challenge: https://www.floriandalwigk.de/das-letzte-geschenk-hackcember-2021/
 #findet die möglichen passwörter. (müssen dann einfach nacheinander an der zip getestet werden)
 #es ist ein passwort in der rockyou.txt, das 24*4=96 zeichen hat.
+#es handelt sich bei den zeichenketten um Links. nicht wundern, das hat seine Richtigkeit. einfach kopieren und an der zip testen
 
 #rockyou.txt wird benötigt. einfach danach googlen und downloaden
 
