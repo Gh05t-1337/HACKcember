@@ -14,3 +14,6 @@ with open("rockyou.txt","r",encoding='latin-1') as f:
 for word in text.split("\n"):
 	if len(word)==96:
 		print(word)
+		
+
+#frohe Weinachten! ich hoffen meine Lösungen helfen dem ein oder anderen
