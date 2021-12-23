@@ -16,4 +16,4 @@ for word in text.split("\n"):
 		print(word)
 		
 
-#frohe Weinachten! ich hoffen meine Lösungen helfen dem ein oder anderen
+#frohe Weinachten! ich hoffe meine Lösungen helfen dem ein oder anderen
